@@ -1,0 +1,577 @@
+[Configuration]
+
+EmulatorType: pin
+Benchmark: ./benchmark/scimark2/SOR/sor
+Schedule: Thu Aug 03 02:17:53 IST 2017
+
+[Translator Statistics]
+
+Java thread	=	0
+Data Read	=	96639336 bytes
+Number of micro-ops		=	50359873
+Number of handled CISC instructions	=	41842147
+Number of PIN CISC instructions	=	48815174
+Static coverage		=	93.0384 %
+Dynamic Coverage	=	85.7155 %
+
+
+[Timing Statistics]
+
+Total Cycles taken		=	158898696
+
+Total IPC		=	0.3169		in terms of micro-ops
+Total IPC		=	0.2633		in terms of CISC instructions
+
+core		=	0
+Pipeline: inOrder
+instructions executed	=	50811171
+cycles taken	=	158898696 cycles
+IPC		=	0.3198		in terms of micro-ops
+IPC		=	0.2633		in terms of CISC instructions
+core frequency	=	3400 MHz
+time taken	=	46734.9106 microseconds
+
+number of branches	=	0
+number of mispredicted branches	=	0
+branch predictor accuracy	=	NaN %
+
+predictor type = GShare
+PC bits = 4
+BHR size = 4
+Saturating bits = 1
+
+Nothing executed on core 1
+Nothing executed on core 2
+Nothing executed on core 3
+Nothing executed on core 4
+Nothing executed on core 5
+Nothing executed on core 6
+Nothing executed on core 7
+Nothing executed on core 8
+Nothing executed on core 9
+Nothing executed on core 10
+Nothing executed on core 11
+Nothing executed on core 12
+Nothing executed on core 13
+Nothing executed on core 14
+Nothing executed on core 15
+Nothing executed on core 16
+Nothing executed on core 17
+Nothing executed on core 18
+Nothing executed on core 19
+Nothing executed on core 20
+Nothing executed on core 21
+Nothing executed on core 22
+Nothing executed on core 23
+Nothing executed on core 24
+Nothing executed on core 25
+Nothing executed on core 26
+Nothing executed on core 27
+Nothing executed on core 28
+Nothing executed on core 29
+Nothing executed on core 30
+Nothing executed on core 31
+
+
+[Memory System Statistics]
+
+[Per core statistics]
+
+core		=	0
+Memory Requests	=	21918075
+Loads		=	19924072
+Stores		=	1994003
+LSQ forwardings	=	0
+
+
+iTLB[0] Hits	=	41842138
+iTLB[0] Misses	=	9
+iTLB[0] Accesses	=	41842147
+iTLB[0] Hit-Rate	=	1.0000
+iTLB[0] Miss-Rate	=	0.0000
+
+dTLB[0] Hits	=	21916113
+dTLB[0] Misses	=	1962
+dTLB[0] Accesses	=	21918075
+dTLB[0] Hit-Rate	=	0.9999
+dTLB[0] Miss-Rate	=	0.0001
+
+I1[0] Hits	=	41842124
+I1[0] Misses	=	23
+I1[0] Accesses	=	41842147
+I1[0] Hit-Rate	=	0.9999994
+I1[0] Miss-Rate	=	5.4968496E-7
+I1[0] AvgNumEventsInMSHR	=	0.0000
+I1[0] AvgNumEventsInMSHREntry	=	3.0000
+
+
+L1[0] Hits	=	21543061
+L1[0] Misses	=	249890
+L1[0] Accesses	=	21792951
+L1[0] Hit-Rate	=	0.9885334
+L1[0] Miss-Rate	=	0.011466552
+L1[0] AvgNumEventsInMSHR	=	0.5849
+L1[0] AvgNumEventsInMSHREntry	=	1.7198
+
+Nothing executed on core 1
+Nothing executed on core 2
+Nothing executed on core 3
+Nothing executed on core 4
+Nothing executed on core 5
+Nothing executed on core 6
+Nothing executed on core 7
+Nothing executed on core 8
+Nothing executed on core 9
+Nothing executed on core 10
+Nothing executed on core 11
+Nothing executed on core 12
+Nothing executed on core 13
+Nothing executed on core 14
+Nothing executed on core 15
+Nothing executed on core 16
+Nothing executed on core 17
+Nothing executed on core 18
+Nothing executed on core 19
+Nothing executed on core 20
+Nothing executed on core 21
+Nothing executed on core 22
+Nothing executed on core 23
+Nothing executed on core 24
+Nothing executed on core 25
+Nothing executed on core 26
+Nothing executed on core 27
+Nothing executed on core 28
+Nothing executed on core 29
+Nothing executed on core 30
+Nothing executed on core 31
+
+
+[Shared Caches]
+
+
+
+L2 Hits	=	0
+L2 Misses	=	0
+L2 Accesses	=	0
+L2 Hit-Rate	=	NaN
+L2 Miss-Rate	=	NaN
+L2 AvgNumEventsInMSHR	=	0.2921
+L2 AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[0] Hits	=	123438
+L2[0] Misses	=	15623
+L2[0] Accesses	=	139061
+L2[0] Hit-Rate	=	0.88765365
+L2[0] Miss-Rate	=	0.11234638
+L2[0] AvgNumEventsInMSHR	=	0.2921
+L2[0] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[1] Hits	=	0
+L2[1] Misses	=	0
+L2[1] Accesses	=	0
+L2[1] Hit-Rate	=	NaN
+L2[1] Miss-Rate	=	NaN
+L2[1] AvgNumEventsInMSHR	=	0.2921
+L2[1] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[2] Hits	=	0
+L2[2] Misses	=	0
+L2[2] Accesses	=	0
+L2[2] Hit-Rate	=	NaN
+L2[2] Miss-Rate	=	NaN
+L2[2] AvgNumEventsInMSHR	=	0.2921
+L2[2] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[3] Hits	=	0
+L2[3] Misses	=	0
+L2[3] Accesses	=	0
+L2[3] Hit-Rate	=	NaN
+L2[3] Miss-Rate	=	NaN
+L2[3] AvgNumEventsInMSHR	=	0.2921
+L2[3] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[4] Hits	=	114232
+L2[4] Misses	=	14336
+L2[4] Accesses	=	128568
+L2[4] Hit-Rate	=	0.8884948
+L2[4] Miss-Rate	=	0.111505195
+L2[4] AvgNumEventsInMSHR	=	0.2921
+L2[4] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[5] Hits	=	0
+L2[5] Misses	=	0
+L2[5] Accesses	=	0
+L2[5] Hit-Rate	=	NaN
+L2[5] Miss-Rate	=	NaN
+L2[5] AvgNumEventsInMSHR	=	0.2921
+L2[5] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[6] Hits	=	0
+L2[6] Misses	=	0
+L2[6] Accesses	=	0
+L2[6] Hit-Rate	=	NaN
+L2[6] Miss-Rate	=	NaN
+L2[6] AvgNumEventsInMSHR	=	0.2921
+L2[6] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[7] Hits	=	0
+L2[7] Misses	=	0
+L2[7] Accesses	=	0
+L2[7] Hit-Rate	=	NaN
+L2[7] Miss-Rate	=	NaN
+L2[7] AvgNumEventsInMSHR	=	0.2921
+L2[7] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[8] Hits	=	1112227
+L2[8] Misses	=	14338
+L2[8] Accesses	=	1126565
+L2[8] Hit-Rate	=	0.9872728
+L2[8] Miss-Rate	=	0.012727184
+L2[8] AvgNumEventsInMSHR	=	0.2921
+L2[8] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[9] Hits	=	0
+L2[9] Misses	=	0
+L2[9] Accesses	=	0
+L2[9] Hit-Rate	=	NaN
+L2[9] Miss-Rate	=	NaN
+L2[9] AvgNumEventsInMSHR	=	0.2921
+L2[9] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[10] Hits	=	0
+L2[10] Misses	=	0
+L2[10] Accesses	=	0
+L2[10] Hit-Rate	=	NaN
+L2[10] Miss-Rate	=	NaN
+L2[10] AvgNumEventsInMSHR	=	0.2921
+L2[10] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[11] Hits	=	0
+L2[11] Misses	=	0
+L2[11] Accesses	=	0
+L2[11] Hit-Rate	=	NaN
+L2[11] Miss-Rate	=	NaN
+L2[11] AvgNumEventsInMSHR	=	0.2921
+L2[11] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[12] Hits	=	121909
+L2[12] Misses	=	15550
+L2[12] Accesses	=	137459
+L2[12] Hit-Rate	=	0.88687533
+L2[12] Miss-Rate	=	0.11312464
+L2[12] AvgNumEventsInMSHR	=	0.2921
+L2[12] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[13] Hits	=	0
+L2[13] Misses	=	0
+L2[13] Accesses	=	0
+L2[13] Hit-Rate	=	NaN
+L2[13] Miss-Rate	=	NaN
+L2[13] AvgNumEventsInMSHR	=	0.2921
+L2[13] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[14] Hits	=	0
+L2[14] Misses	=	0
+L2[14] Accesses	=	0
+L2[14] Hit-Rate	=	NaN
+L2[14] Miss-Rate	=	NaN
+L2[14] AvgNumEventsInMSHR	=	0.2921
+L2[14] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[15] Hits	=	0
+L2[15] Misses	=	0
+L2[15] Accesses	=	0
+L2[15] Hit-Rate	=	NaN
+L2[15] Miss-Rate	=	NaN
+L2[15] AvgNumEventsInMSHR	=	0.2921
+L2[15] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[16] Hits	=	130548
+L2[16] Misses	=	16384
+L2[16] Accesses	=	146932
+L2[16] Hit-Rate	=	0.88849264
+L2[16] Miss-Rate	=	0.11150736
+L2[16] AvgNumEventsInMSHR	=	0.2921
+L2[16] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[17] Hits	=	0
+L2[17] Misses	=	0
+L2[17] Accesses	=	0
+L2[17] Hit-Rate	=	NaN
+L2[17] Miss-Rate	=	NaN
+L2[17] AvgNumEventsInMSHR	=	0.2921
+L2[17] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[18] Hits	=	0
+L2[18] Misses	=	0
+L2[18] Accesses	=	0
+L2[18] Hit-Rate	=	NaN
+L2[18] Miss-Rate	=	NaN
+L2[18] AvgNumEventsInMSHR	=	0.2921
+L2[18] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[19] Hits	=	0
+L2[19] Misses	=	0
+L2[19] Accesses	=	0
+L2[19] Hit-Rate	=	NaN
+L2[19] Miss-Rate	=	NaN
+L2[19] AvgNumEventsInMSHR	=	0.2921
+L2[19] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[20] Hits	=	130544
+L2[20] Misses	=	16384
+L2[20] Accesses	=	146928
+L2[20] Hit-Rate	=	0.8884896
+L2[20] Miss-Rate	=	0.111510396
+L2[20] AvgNumEventsInMSHR	=	0.2921
+L2[20] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[21] Hits	=	0
+L2[21] Misses	=	0
+L2[21] Accesses	=	0
+L2[21] Hit-Rate	=	NaN
+L2[21] Miss-Rate	=	NaN
+L2[21] AvgNumEventsInMSHR	=	0.2921
+L2[21] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[22] Hits	=	0
+L2[22] Misses	=	0
+L2[22] Accesses	=	0
+L2[22] Hit-Rate	=	NaN
+L2[22] Miss-Rate	=	NaN
+L2[22] AvgNumEventsInMSHR	=	0.2921
+L2[22] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[23] Hits	=	0
+L2[23] Misses	=	0
+L2[23] Accesses	=	0
+L2[23] Hit-Rate	=	NaN
+L2[23] Miss-Rate	=	NaN
+L2[23] AvgNumEventsInMSHR	=	0.2921
+L2[23] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[24] Hits	=	130556
+L2[24] Misses	=	16384
+L2[24] Accesses	=	146940
+L2[24] Hit-Rate	=	0.8884987
+L2[24] Miss-Rate	=	0.11150129
+L2[24] AvgNumEventsInMSHR	=	0.2921
+L2[24] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[25] Hits	=	0
+L2[25] Misses	=	0
+L2[25] Accesses	=	0
+L2[25] Hit-Rate	=	NaN
+L2[25] Miss-Rate	=	NaN
+L2[25] AvgNumEventsInMSHR	=	0.2921
+L2[25] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[26] Hits	=	0
+L2[26] Misses	=	0
+L2[26] Accesses	=	0
+L2[26] Hit-Rate	=	NaN
+L2[26] Miss-Rate	=	NaN
+L2[26] AvgNumEventsInMSHR	=	0.2921
+L2[26] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[27] Hits	=	0
+L2[27] Misses	=	0
+L2[27] Accesses	=	0
+L2[27] Hit-Rate	=	NaN
+L2[27] Miss-Rate	=	NaN
+L2[27] AvgNumEventsInMSHR	=	0.2921
+L2[27] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[28] Hits	=	130548
+L2[28] Misses	=	16384
+L2[28] Accesses	=	146932
+L2[28] Hit-Rate	=	0.88849264
+L2[28] Miss-Rate	=	0.11150736
+L2[28] AvgNumEventsInMSHR	=	0.2921
+L2[28] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[29] Hits	=	0
+L2[29] Misses	=	0
+L2[29] Accesses	=	0
+L2[29] Hit-Rate	=	NaN
+L2[29] Miss-Rate	=	NaN
+L2[29] AvgNumEventsInMSHR	=	0.2921
+L2[29] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[30] Hits	=	0
+L2[30] Misses	=	0
+L2[30] Accesses	=	0
+L2[30] Hit-Rate	=	NaN
+L2[30] Miss-Rate	=	NaN
+L2[30] AvgNumEventsInMSHR	=	0.2921
+L2[30] AvgNumEventsInMSHREntry	=	1.0000
+
+
+L2[31] Hits	=	0
+L2[31] Misses	=	0
+L2[31] Accesses	=	0
+L2[31] Hit-Rate	=	NaN
+L2[31] Miss-Rate	=	NaN
+L2[31] AvgNumEventsInMSHR	=	0.2921
+L2[31] AvgNumEventsInMSHREntry	=	1.0000
+
+
+[Consolidated Stats For Caches]
+
+
+
+L2 Hits	=	1994002
+L2 Misses	=	125383
+L2 Accesses	=	2119385
+L2 Hit-Rate	=	0.9408399
+L2 Miss-Rate	=	0.059160087
+L2 AvgNumEventsInMSHR	=	0.2921
+L2 AvgNumEventsInMSHREntry	=	1.0000
+
+
+L1 Hits	=	21543061
+L1 Misses	=	249890
+L1 Accesses	=	21792951
+L1 Hit-Rate	=	0.9885334
+L1 Miss-Rate	=	0.011466552
+L1 AvgNumEventsInMSHR	=	0.5849
+L1 AvgNumEventsInMSHREntry	=	1.7198
+
+
+I1 Hits	=	41842124
+I1 Misses	=	23
+I1 Accesses	=	41842147
+I1 Hit-Rate	=	0.9999994
+I1 Miss-Rate	=	5.4968496E-7
+I1 AvgNumEventsInMSHR	=	0.0000
+I1 AvgNumEventsInMSHREntry	=	3.0000
+
+
+NUCA 		=	L2
+NUCA Type	=	D_NUCA
+Total Nuca Bank Accesses	=	2119385
+Total Nuca Bank Migrations	=	0
+Average number of NUCA Events	=	0.17748168
+
+
+NOC Topology		=	MESH
+NOC Routing Algorithm	=	SIMPLE
+
+
+
+Directory Access due to ReadMiss	=	0
+Directory Access due to WriteMiss	=	0
+Directory Access due to WriteHit	=	0
+Directory Access due to EvictionFromCoherentCache	=	0
+Directory Access due to EvictionFromSharedCache	=	0
+Directory Hits	=	0
+Directory Misses	=	0
+
+[Simulator Time]
+Time Taken		=	0 : 50 minutes
+Instructions per Second	=	990.4977 KIPS		in terms of micro-ops
+Instructions per Second	=	822.9677 KIPS		in terms of CISC instructions
+
+
+
+[ComponentName LeakageEnergy DynamicEnergy TotalEnergy NumDynamicAccesses] : 
+
+
+core[0].iCache	17351737.7124	14211379.6032	31563117.3156	41842153
+core[0].iTLB	868023.8570	2842276.1244	3710299.9815	41842156
+core[0].dCache	17351737.7124	7444398.9408	24796136.6532	21918328
+core[0].dTLB	868023.8570	1488995.8780	2357019.7351	21920037
+core[0].pipeline.bPred	2828396.8066	0.0000	2828396.8066	0
+core[0].pipeline.decode	9502142.0806	1763147.7031	11265289.7837	50811173
+core[0].pipeline.regFile.int	1716105.9276	3761255.8984	5477361.8260	65756222
+core[0].pipeline.regFile.float	1191740.2275	391728.3732	1583468.6007	18924076
+core[0].pipeline.FuncUnit.intALU	8612309.3774	7463440.5789	16075749.9563	22915077
+core[0].pipeline.FuncUnit.floatALU	10391974.7838	6413468.9568	16805443.7406	11952048
+core[0].pipeline.FuncUnit.complexALU	4306154.6887	15576327.6092	19882482.2979	23912078
+core[0].pipeline.resultsBroadcastBus	3797678.8583	27850418.5420	31648097.4003	46823165
+core[0].pipeline.total	42346502.7505	63219787.6616	105566290.4121	0
+core[0].total	78786025.8894	89206838.2081	167992864.0974	0
+
+
+coreEnergy.total	78786025.8894	89206838.2081	167992864.0974	0
+
+
+L2	25296672.5624	0.0000	25296672.5624	0
+L2[0]	25296672.5624	68005.6832	25364678.2456	154684
+L2[1]	25296672.5624	0.0000	25296672.5624	0
+L2[2]	25296672.5624	0.0000	25296672.5624	0
+L2[3]	25296672.5624	0.0000	25296672.5624	0
+L2[4]	25296672.5624	62826.6928	25359499.2552	142904
+L2[5]	25296672.5624	0.0000	25296672.5624	0
+L2[6]	25296672.5624	0.0000	25296672.5624	0
+L2[7]	25296672.5624	0.0000	25296672.5624	0
+L2[8]	25296672.5624	501589.6149	25798262.1773	1140903
+L2[9]	25296672.5624	0.0000	25296672.5624	0
+L2[10]	25296672.5624	0.0000	25296672.5624	0
+L2[11]	25296672.5624	0.0000	25296672.5624	0
+L2[12]	25296672.5624	67269.2818	25363941.8442	153009
+L2[13]	25296672.5624	0.0000	25296672.5624	0
+L2[14]	25296672.5624	0.0000	25296672.5624	0
+L2[15]	25296672.5624	0.0000	25296672.5624	0
+L2[16]	25296672.5624	71800.6785	25368473.2409	163316
+L2[17]	25296672.5624	0.0000	25296672.5624	0
+L2[18]	25296672.5624	0.0000	25296672.5624	0
+L2[19]	25296672.5624	0.0000	25296672.5624	0
+L2[20]	25296672.5624	71798.9200	25368471.4824	163312
+L2[21]	25296672.5624	0.0000	25296672.5624	0
+L2[22]	25296672.5624	0.0000	25296672.5624	0
+L2[23]	25296672.5624	0.0000	25296672.5624	0
+L2[24]	25296672.5624	71804.1957	25368476.7581	163324
+L2[25]	25296672.5624	0.0000	25296672.5624	0
+L2[26]	25296672.5624	0.0000	25296672.5624	0
+L2[27]	25296672.5624	0.0000	25296672.5624	0
+L2[28]	25296672.5624	71800.6785	25368473.2409	163316
+L2[29]	25296672.5624	0.0000	25296672.5624	0
+L2[30]	25296672.5624	0.0000	25296672.5624	0
+L2[31]	25296672.5624	0.0000	25296672.5624	0
+
+
+sharedCacheEnergy.total	834790194.5592	986895.7455	835777090.3047	0
+
+
+MainMemoryController[0]	1159960.4881	6820.8352	1166781.3233	125383
+
+mainMemoryControllerEnergy.total	1159960.4881	6820.8352	1166781.3233	0
+Coherence[0]	17351737.7124	0.0000	17351737.7124	0
+
+
+coherenceEnergy.total	17351737.7124	0.0000	17351737.7124	0
+
+
+TotalEnergy	2781255615.1169	116411307.4140	2897666922.5309	0

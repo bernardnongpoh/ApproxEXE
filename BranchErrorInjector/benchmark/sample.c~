@@ -1,0 +1,12 @@
+#include "inst.h"
+#include <stdio.h>
+int main(){
+	int a=10;
+	int b=10;
+	if(a==b){
+		printf("Right");
+	}
+	else{
+		printf("Wrong ");
+	}
+}

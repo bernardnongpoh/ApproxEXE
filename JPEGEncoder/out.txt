@@ -1,0 +1,327 @@
+4021b2
+Compressed file size: 215779, bits/pixel: 6.585
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4ba9c4
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4b7ac3
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48e950
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+47966a
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+465d87
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4645fb
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+463c72
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+45c576
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4577a5
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4d8af9
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4b7ab5
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4b14e7
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a73e1
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a6aad
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 0101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a13b0
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48e875
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48c90d
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+466566
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4270a5
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+424c77
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+42316c
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4031fa
+Compressed file size: 190952, bits/pixel: 5.827
+Error Max: 101.000000, Mean: 7.323841, Mean^2: 35.956989, RMSE: 5.996415, PSNR: 32.572970
+Success
+4031cf
+Compressed file size: 192659, bits/pixel: 5.879
+Error Max: 101.000000, Mean: 7.156593, Mean^2: 34.801704, RMSE: 5.899297, PSNR: 32.714798
+Success
+424e70
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+421ed1
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+457a51
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4049a2
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4271b4
+Compressed file size: 232372, bits/pixel: 7.091
+Error Max: 253.000000, Mean: 14.292458, Mean^2: 424.102676, RMSE: 20.593753, PSNR: 21.856093
+Success
+425650
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+421ee8
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+421eff
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+427254
+Failed loading file "10.png"!
+403bb2
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4255b9
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+464006
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+45e925
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+464955
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+462c04
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+402036
+Compressed file size: 286094, bits/pixel: 8.731
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48c9c7
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+45e04c
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+45335b
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+453361
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4ba8be
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a778b
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a11f1
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48c978
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+47a1bd
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+46648e
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4d8b09
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4cdecf
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4c0ed2
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4baf68
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4baa05
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4ba82e
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4ba828
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4ba7de
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4ba7d5
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4b1540
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4b14f7
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a74fe
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a74d9
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416011, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a715e
+Compressed file size: 194688, bits/pixel: 5.94
+Error Max: 101, Mean: 7.10497, Mean^2: 34.416, RMSE: 5.86652, PSNR: 32.7632
+Success
+4a70b3
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a7034
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a6ab3
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a6a27
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.000000, RMSE: 5.866516, PSNR: 32.000000
+Success
+4a484e
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a1497
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a13a2
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a12c4
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4a1243
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+49e77c
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: ;25.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+4925d7
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+490c97
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48ccbc
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48ca9d
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48ca0a
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48c990
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+48c967
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+46ad0a
+Compressed file size: 194688, bits/pixel: 5.941
+Error Max: 101.000000, Mean: 7.104969, Mean^2: 34.416012, RMSE: 5.866516, PSNR: 32.763198
+Success
+46aced
